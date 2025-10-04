@@ -4,12 +4,11 @@ Opis:
 Commit wprowadza pierwszą apk test: Matemax.app. Aplikacja została zbudowana od podstaw przy użyciu: #React, #TypeScript, #Python.
 
 
-Kluczowe funkcjonalności:
+Kluczowe funkcjonalności CalculatorPrime1:
 Nowoczesny interfejs: Czysty, responsywny i estetyczny wygląd w ciemnym motywie.
-Podstawowe wprowadzone operacje: Wsparcie dla dodawania, odejmowania, mnożenia i dzielenia.
+Podstawowe operacje (1): dodawanie, odejmowanie, mnożenie i dzielenie.
 Zarządzanie stanem: Logika kalkulatora zaimplementowana przy użyciu hooków useState i useCallback w głównym komponencie App.
-Architektura komponentowa: Kod został podzielony na reużywalne komponenty (Display, ButtonGrid, Button) dla lepszej organizacji i skalowalności.
-**Obsługa błędów: Wprowadzono podstawową walidację, np. wyświetlanie błędu przy próbie dzielenia przez zero.
+**Obsługa błędów: Wprowadzono poprawkę: wyświetlanie błędu przy próbie dzielenia przez zero.
 **Formatowanie liczb: Wyświetlane wartości używają przecinka jako separatora dziesiętnego dla lepszej czytelności w polskim standardzie.
 
 
@@ -17,15 +16,17 @@ Architektura komponentowa: Kod został podzielony na reużywalne komponenty (Dis
 English Version:
 
 Description:
-This commit introduces the first fully functional version of the calculator, inspired by the Matemax.app design. The application is built from the ground up using a modern tech stack, #including React, #TypeScript, #Python
+Commit introduces the first test APK: Matemax.app. The app was built from scratch using: #React, #TypeScript, #Python.
 
-Key Features:
-Modern UI: A clean, responsive, and aesthetically pleasing dark-themed interface.
-Basic Operations: Supports addition, subtraction, multiplication, and division.
-State Management: The calculator's logic is implemented using useState and useCallback hooks within the main App component.
-Component-Based Architecture: The code is structured into reusable components (Display, ButtonGrid, Button) for better organization and scalability.
-Error Handling: Basic validation is in place, such as displaying an error on division by zero.
-Number Formatting: Displayed values use a comma as the decimal separator for better readability in the Polish locale.
+Key Features of CalculatorPrime1:
 
-Zainteresowanych zapraszam do kontaktu poprzez mail z CV.
-For Interested  - available by mail from CV.
+Modern Interface: Clean, responsive, and aesthetically pleasing design in a dark theme.
+
+Basic Operations (1): Addition, Subtraction, Multiplication, and Division.
+
+State Management: Calculator logic implemented using the useState and useCallback hooks in the main App component.
+
+**Error Handling: Fixed: Displaying an error when attempting to divide by zero.
+
+**Number Formatting: Displayed values ​​use a comma as a decimal separator for better readability in the Polish standard.
+
