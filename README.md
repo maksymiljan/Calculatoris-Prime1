@@ -19,14 +19,9 @@ Description:
 Commit introduces the first test APK: Matemax.app. The app was built from scratch using: #React, #TypeScript, #Python.
 
 Key Features of CalculatorPrime1:
-
 Modern Interface: Clean, responsive, and aesthetically pleasing design in a dark theme.
-
 Basic Operations (1): Addition, Subtraction, Multiplication, and Division.
-
 State Management: Calculator logic implemented using the useState and useCallback hooks in the main App component.
-
 **Error Handling: Fixed: Displaying an error when attempting to divide by zero.
-
 **Number Formatting: Displayed values ​​use a comma as a decimal separator for better readability in the Polish standard.
 
