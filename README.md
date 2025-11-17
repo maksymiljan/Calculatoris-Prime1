@@ -1,7 +1,7 @@
 Wersja polska:
 
 Opis:
-Commit wprowadza pierwszą apk test: Matemax.app. Aplikacja została zbudowana od podstaw przy użyciu: #React, #TypeScript, #Python.
+Commit wprowadza pierwszą apk test: Matemax.app. Aplikacja została zbudowana od podstaw przy użyciu: #React, #TypeScript.
 
 
 Kluczowe funkcjonalności CalculatorPrime1:
