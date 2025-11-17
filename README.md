@@ -16,7 +16,7 @@ Zarządzanie stanem: Logika kalkulatora zaimplementowana przy użyciu hooków us
 English Version:
 
 Description:
-Commit introduces the first test APK: Matemax.app. The app was built from scratch using: #React, #TypeScript, #Python.
+Commit introduces the first test APK: Matemax.app. The app was built from scratch using: #React, #TypeScript.
 
 Key Features of CalculatorPrime1:
 Modern Interface: Clean, responsive, and aesthetically pleasing design in a dark theme.
